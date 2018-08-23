@@ -1,0 +1,25 @@
+.meta {
+  margin-bottom: 10px;
+}
+
+.content {
+  margin-bottom: 10px;
+}
+
+.count {
+  float: right;
+  margin-bottom: 10px;
+}
+
+.thread {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #eee;
+}
+
+.action {
+  float: left;
+}
+
+.edit {
+  padding-bottom: 5px;
+}
